@@ -56,6 +56,7 @@ P`  `IZ@@@@@@@@@@@@@i . . . . @@@@@@@@@@@@@ZI`  `P           位置: 广东, UTC
 0003    superuser  🎮  游戏玩家 — 异世界指挥官
 0004    superuser  ☕  咖啡依赖 — 系统燃料
 0005    superuser  🔍  终身学习 — 永不停歇
+0006    superuser  🤖  AI 辅助编程 — 人机协同开发
 ```
 
 ---
@@ -78,11 +79,11 @@ P`  `IZ@@@@@@@@@@@@@i . . . . @@@@@@@@@@@@@ZI`  `P           位置: 广东, UTC
 <div align="center">
 
 <!-- GitHub 统计卡片 -->
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=493Arceus&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&locale=cn" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=493Arceus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&locale=cn" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=493Arceus&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&locale=cn&cache_seconds=86400" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=493Arceus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&locale=cn&cache_seconds=86400" />
 
 <!-- 连续贡献 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=493Arceus&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff9e64&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=565f89&locale=zh" />
+<img src="https://streak-stats.demolab.com?user=493Arceus&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff9e64&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=565f89&locale=zh" />
 
 </div>
 
@@ -117,7 +118,7 @@ P`  `IZ@@@@@@@@@@@@@i . . . . @@@@@@@@@@@@@ZI`  `P           位置: 广东, UTC
 ```
 [root@superuser ~]# cat /var/log/visitors.log | wc -l
 ```
-![Visitor Count](https://profile-counter.glitch.me/493Arceus/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=493Arceus&color=00ff00&style=flat-square)
 
 **`[ OK ] 服务运行中。愿你的系统永不宕机。☕`**
 
