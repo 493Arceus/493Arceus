@@ -14,18 +14,17 @@
 ## `$ neofetch`
 
 ```text
-                    .~vVeZNgQBBBQQg9Ze1v~.                    superuser@github
-             `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 ----------------
-        "Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8Qw"                OS: Linux (Terminal Life)
-    <v0@@@@@@@@@@@@@@@@P^ *@@@@@@@@@@@@@@@@@0v>               Uptime: Since the beginning
- .~nB@@@@@@@@@@@P*"`  . .  '*g@@@@@@@@@@@@@n;>.              Shell: Bash / Python
-!8@@@@@@@@@@*`  .vUi   . .   vJx.  *@@@@@@@@@@8!             Terminal: xterm-256color
-B@@@@@@#i`  .*ZE@@@@i . . .  @@@@B5*  `i#@@@@@@B             WM: i3 (Tiling everything)
-8@@@@P`  `vJ0@@@@@@@@ . . .  @@@@@@@@B1^  `P@@@@8            CPU: Brain @ ∞ GHz
-@@#i  `+n8@@@@@@@@@@P . . .  *@@@@@@@@@@8n+`  i#@@            Memory: Coffee ☕
-P`  `IZ@@@@@@@@@@@@@i . . . . @@@@@@@@@@@@@ZI`  `P           Location: GuangDong, UTC+8
- .~Yg@@@@@@@@@@@@@0=  . . . .  =0@@@@@@@@@@@@@gY~.            Status: 🔧 Maintaining...
-`
+              ┌──────────────────┐                   superuser@github
+              │ superuser@github │                   ----------------
+              ├──────────────────┤                   OS: Linux (Terminal Life)
+              │                  │                   Uptime: Since the beginning
+              │  >_              │                   Shell: Bash / Python
+              │                  │                   Terminal: xterm-256color
+              │                  │                   WM: i3 (Tiling everything)
+              └──────────────────┘                   CPU: Brain @ ∞ GHz
+                                                     Memory: Coffee ☕
+                                                     Location: GuangDong, UTC+8
+                                                     Status: 🔧 Maintaining...
 ```
 
 ---
@@ -96,15 +95,17 @@ PID   USER       COMMAND
 ┌─────────────────────────────────────────────────┐
 │                                                 │
 │   📡  Primary Channel:                          │
-│       https://space.bilibili.com/2428511        │
+│       bilibili: superuser                       │
+│       Xbox: superuser493                        │
 │                                                 │
 │   🐙  GitHub: 493Arceus                         │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
 
-<!-- Bilibili -->
-[![Bilibili](https://img.shields.io/badge/Bilibili-2428511-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2428511)
+<!-- Social -->
+[![Bilibili](https://img.shields.io/badge/bilibili-superuser-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/2428511)
+[![Xbox](https://img.shields.io/badge/Xbox-superuser493-107C10?style=flat-square&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/profile?gamertag=superuser493)
 [![GitHub](https://img.shields.io/badge/GitHub-493Arceus-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/493Arceus)
 
 </div>
